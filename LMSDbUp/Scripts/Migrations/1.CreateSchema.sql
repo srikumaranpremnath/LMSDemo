@@ -1,0 +1,2 @@
+﻿create Schema LMS
+GO
